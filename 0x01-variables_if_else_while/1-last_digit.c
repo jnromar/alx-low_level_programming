@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main-program entry point.
- * Return:0 if no error, non-zero value if error.
- */
+* main-program entry point.
+* Return:0 if no error, non-zero value if error.
+*/
 int main(void)
 {
 	int n;
@@ -15,7 +15,7 @@ int main(void)
 	ldigit = n % 10
 	if (ldigit > 5)
 	{
-        	printf("Last digit of %d is %d and is greater than 5\n", n, ldigit);
+		printf("Last digit of %d is %d and is greater than 5\n", n, ldigit);
 	}
 	else if (ldigit == 0)
 	{

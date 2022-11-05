@@ -1,7 +1,7 @@
 /*
- * File: 2-strlen_recursion.c
- * Auth: omar
- */
+* File: 2-strlen_recursion.c
+* Auth: omar
+*/
 
 #include "main.h"
 /*

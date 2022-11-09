@@ -17,3 +17,6 @@ int main(int argc, char *argv[])
 		while (count < argc)
 		{
 			printf("%s\n", argv[count]);
+		}
+	}
+}
